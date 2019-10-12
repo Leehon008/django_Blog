@@ -2,141 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8b347eb-4383-4bbf-9769-b7069579ec39" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2d522798-d1db-43b6-949b-b0c3bd1a385b.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2d522798-d1db-43b6-949b-b0c3bd1a385b/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/default.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/profile_pics/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/profile_pics/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/profile_pics/white_bg_O2VwvCV.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/BdfFontFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/BlpImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/BmpImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/BufrStubImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ContainerIO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/CurImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/DcxImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/DdsImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/EpsImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ExifTags.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/FitsStubImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/FliImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/FontFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/FpxImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/FtexImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/GbrImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/GdImageFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/GifImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/GimpGradientFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/GimpPaletteFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/GribStubImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/Hdf5StubImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/IcnsImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/IcoImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/Image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageChops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageCms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageColor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageDraw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageDraw2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageEnhance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageFilter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageFont.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageGrab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageMath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageMode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageMorph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageOps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImagePalette.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImagePath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageQt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageSequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageShow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageStat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageTk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageTransform.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageWin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImtImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/IptcImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/Jpeg2KImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/JpegImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/JpegPresets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/McIdasImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/MicImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/MpegImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/MpoImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/MspImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/PSDraw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/PaletteFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/PalmImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/PcdImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/PcfFontFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/PcxImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/PdfImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/PdfParser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/PixarImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/PngImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/PpmImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/PsdImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/PyAccess.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/SgiImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/SpiderImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/SunImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/TarIO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/TgaImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/TiffImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/TiffTags.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/WalImageFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/WebPImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/WmfImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/XVThumbImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/XbmImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/XpmImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_binary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_imaging.cp37-win32.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_imagingcms.cp37-win32.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_imagingft.cp37-win32.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_imagingmath.cp37-win32.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_imagingmorph.cp37-win32.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_imagingtk.cp37-win32.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_tkinter_finder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_webp.cp37-win32.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/features.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Pillow-6.1.0.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Pillow-6.1.0.dist-info/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Pillow-6.1.0.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Pillow-6.1.0.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Pillow-6.1.0.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Pillow-6.1.0.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Pillow-6.1.0.dist-info/zip-safe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_confirm_delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_confirm_delete.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/user_posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/user_posts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangoBlogApp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoBlogApp/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoBlogApp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoBlogApp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/signals.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/signals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/templates/users/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/users/templates/users/profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -146,7 +17,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/djangoBlogApp$Test__.coverage" NAME="Test:  Coverage Results" MODIFIED="1568726287037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/djangoBlogApp$manage.coverage" NAME="manage Coverage Results" MODIFIED="1570892489178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/djangoBlogApp$Test__.coverage" NAME="Test:  Coverage Results" MODIFIED="1570892471398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -159,7 +31,12 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
@@ -179,11 +56,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user_posts.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="user_posts.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/templates/blog/user_posts.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+            <state relative-caret-position="255">
+              <caret line="19" column="57" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="runtime.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/runtime.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Procfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="47" selection-start-column="47" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/djangoBlogApp/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -192,7 +114,7 @@
         <entry file="file://$PROJECT_DIR$/blog/templates/blog/home.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="76" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="76" />
+              <caret line="7" column="78" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="78" />
               <folding>
                 <element signature="n#if#0;n#!!top" />
               </folding>
@@ -204,7 +126,7 @@
         <entry file="file://$PROJECT_DIR$/blog/templates/blog/base.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="986">
-              <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+              <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#if#2;n#!!top" />
@@ -225,15 +147,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post_detail.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_detail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -246,6 +159,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Leehon008 &lt;honye.lewism@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -262,7 +180,6 @@
         <option value="$PROJECT_DIR$/users/templates/users/register.html" />
         <option value="$PROJECT_DIR$/users/templates/users/logout.html" />
         <option value="$PROJECT_DIR$/users/admin.py" />
-        <option value="$PROJECT_DIR$/djangoBlogApp/settings.py" />
         <option value="$PROJECT_DIR$/djangoBlogApp/urls.py" />
         <option value="$PROJECT_DIR$/users/signals.py" />
         <option value="$PROJECT_DIR$/users/apps.py" />
@@ -279,6 +196,9 @@
         <option value="$PROJECT_DIR$/blog/views.py" />
         <option value="$PROJECT_DIR$/blog/templates/blog/base.html" />
         <option value="$PROJECT_DIR$/blog/templates/blog/user_posts.html" />
+        <option value="$PROJECT_DIR$/runtime.txt" />
+        <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/djangoBlogApp/settings.py" />
       </list>
     </option>
   </component>
@@ -292,10 +212,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="14" />
-    <option name="y" value="-19" />
-    <option name="width" value="1276" />
-    <option name="height" value="728" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -315,20 +235,7 @@
             <path>
               <item name="djangoBlogApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="djangoBlogApp" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djangoBlogApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="djangoBlogApp" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djangoBlogApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="djangoBlogApp" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -340,6 +247,8 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -357,7 +266,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Django tests.Test: ">
+  <component name="RunManager" selected="Python.manage">
     <configuration name="Test: " type="DjangoTestsConfigurationType" factoryName="Django tests" temporary="true">
       <module name="djangoBlogApp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -376,6 +285,25 @@
       <option name="CUSTOM_SETTINGS" value="false" />
       <option name="USE_OPTIONS" value="false" />
       <option name="OPTIONS" value="" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="djangoBlogApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="djangoBlogApp" type="Python.DjangoServer" factoryName="Django server">
       <module name="djangoBlogApp" />
@@ -402,9 +330,11 @@
     <list>
       <item itemvalue="Django server.djangoBlogApp" />
       <item itemvalue="Django tests.Test: " />
+      <item itemvalue="Python.manage" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.manage" />
         <item itemvalue="Django tests.Test: " />
       </list>
     </recent_temporary>
@@ -427,38 +357,49 @@
       <option name="project" value="LOCAL" />
       <updated>1568739406320</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=" new additions close to finish">
+      <created>1569141526845</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569141526845</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
     <history-entry file="Test__ - 2019.09.17 at 15h 18m 12s.xml">
       <configuration name="Test: " configurationId="DjangoTestsConfigurationType" />
     </history-entry>
+    <history-entry file="Test__ - 2019.10.12 at 17h 01m 19s.xml">
+      <configuration name="Test: " configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1316" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50079364" side_tool="true" weight="0.32972136" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49920633" weight="0.32972136" />
-      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49920633" weight="0.32972136" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50079364" side_tool="true" weight="0.32972136" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32972136" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4984127" weight="0.3498452" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21746032" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49920633" weight="0.32972136" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49920633" weight="0.32972136" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4984127" visible="true" weight="0.16253869" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22372611" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" weight="0.63730156" />
+      <window_info anchor="right" id="Database" order="4" weight="0.34022257" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.32972136" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32972136" />
     </layout>
   </component>
@@ -470,58 +411,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" new additions" />
-    <option name="LAST_COMMIT_MESSAGE" value=" new additions" />
+    <MESSAGE value=" new additions close to finish" />
+    <option name="LAST_COMMIT_MESSAGE" value=" new additions close to finish" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/templates/blog/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="76" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="76" />
-          <folding>
-            <element signature="n#if#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/templates/blog/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#if#2;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#78#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/templates/blog/user_posts.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -723,13 +617,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/djangoBlogApp/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="126" column="20" selection-start-line="126" selection-start-column="20" selection-end-line="126" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/users/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -813,7 +700,7 @@
     <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_detail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -840,7 +727,7 @@
     <entry file="file://$PROJECT_DIR$/blog/templates/blog/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="986">
-          <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+          <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#if#2;n#!!top" />
@@ -851,17 +738,66 @@
     <entry file="file://$PROJECT_DIR$/blog/templates/blog/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="76" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="76" />
+          <caret line="7" column="78" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="78" />
           <folding>
             <element signature="n#if#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="das://2d522798-d1db-43b6-949b-b0c3bd1a385b/schema/main/table/auth_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2d522798-d1db-43b6-949b-b0c3bd1a385b/schema/main/table/users_profile">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog/templates/blog/user_posts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+        <state relative-caret-position="255">
+          <caret line="19" column="57" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runtime.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="47" selection-start-column="47" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/djangoBlogApp/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
